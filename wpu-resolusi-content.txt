@@ -3,6 +3,7 @@ RRENCANA KONTEN PELATIHAN
 - Javascript
   * ES6
   * Framework Javascript
+- Struktur data dasar  
 - PHP Frameworks
 - Interview
 - Web
