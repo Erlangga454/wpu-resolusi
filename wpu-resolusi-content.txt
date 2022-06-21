@@ -3,9 +3,11 @@ RRENCANA KONTEN PELATIHAN
 - Javascript
   * ES6
   * Framework Javascript
-    ^ Angular
+    ^ Vue
     ^ React
+- Struktur data dasar  
 - PHP Frameworks
   ^ Laravel
 - Interview
 - Web
+- Python
