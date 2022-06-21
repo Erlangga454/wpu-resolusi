@@ -1,0 +1,6 @@
+RRENCANA KONTEN PELATIHAN
+
+- Javascript
+- PHP Frameworks
+- Interview
+- Web
