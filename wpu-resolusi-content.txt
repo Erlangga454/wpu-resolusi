@@ -1,0 +1,8 @@
+RRENCANA KONTEN PELATIHAN
+
+- Javascript
+  * ES6
+  * Framework Javascript
+- PHP Frameworks
+- Interview
+- Web
